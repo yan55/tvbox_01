@@ -1,6 +1,6 @@
 {
 "urls":[
-      {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json","name":"18禁專區"},
-        {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json","name":"18禁專區"},
+      {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/18/18live.json","name":"18禁"},
+      {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json","name":"18禁專區"}
        ]
 }
