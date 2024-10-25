@@ -1,6 +1,11 @@
 {
 "urls":[
       {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/18/18live.json","name":"18禁"},
-      {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json","name":"18禁專區"}
+      {"url":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-only-sex.json","name":"18禁專區"},
+      {"url":"https://p.ntnas.top/https://raw.githubusercontent.com/xiongjian83/TvBox/main/ZY.json","name":"xiongjian83"},
+      {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/papa.json","name":"papa"},
+      {"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/18/18live.json","name":"18live"},
+      {"url":" https://mirror.ghproxy.com/https://raw.githubusercontent.com/hd9211/Tvbox1/refs/heads/main/zy.json","name":"zy"}
+
        ]
 }
