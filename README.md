@@ -3,4 +3,5 @@
 
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/yan55/tvbox_01/refs/heads/main/tvbox.json
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/yan55/tvbox_01/refs/heads/main/tvbox_02.json
+https://mirror.ghproxy.com/https://raw.githubusercontent.com/MicrosoftWindowsWorkstationEdition/TVBOX/refs/heads/main/duocang1.json
 
