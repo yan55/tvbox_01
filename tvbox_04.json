@@ -52,6 +52,21 @@
         {   
         	"url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/少儿频道/api.json", 
             "name": "少儿频道" 
-        }
+        },
+	  {"name": "🐼电视直播源","url": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/直播源/iptv.json"},
+	  {"name": "CandyMuj", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/CandyMuj.txt"},
+          {"name": "Moew", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/Moew.txt"},
+          {"name": "dxawi", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/dxawi.txt"},
+          {"name": "小米", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/小米.txt"},
+          {"name": "巧技", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/巧技.txt"},
+          {"name": "挺好", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/挺好.txt"},
+          {"name": "摸鱼", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/摸鱼.txt"},
+          {"name": "星辰", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/星辰.txt"},
+          {"name": "欧歌", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/欧歌.txt"},
+          {"name": "王二小放牛娃", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/王二小放牛娃.txt"},
+          {"name": "盒子迷", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/盒子迷.txt"},
+          {"name": "肥猫", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/肥猫.txt"},
+          {"name": "饭太硬", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/饭太硬.txt"},
+          {"name": "骚零", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/骚零.txt"}
     ]
 }
