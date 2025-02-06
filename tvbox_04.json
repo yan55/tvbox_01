@@ -1,72 +1,134 @@
-{ 
-	"urls": [
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/饭太硬/api.json", 
-            "name": "饭太硬" 
+{
+    "urls": [
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/饭太硬/api.json",
+            "name": "饭太硬"
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/小米/api.json", 
-            "name": "小米" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/小米/api.json",
+            "name": "小米"
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/肥猫/api.json", 
-            "name": "肥猫" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/肥猫/api.json",
+            "name": "肥猫"
         },
-        { 
-            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json", 
-            "name": "香雅情演示线路" 
+        {
+            "url": "https://ghproxy.net/https://raw.githubusercontent.com/ls125781003/xyqonlinerule/main/XYQTVBox.json",
+            "name": "香雅情演示线路"
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/drpy_t3/api.json", 
-            "name": "drpy_t3精选" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/drpy_t3/api.json",
+            "name": "drpy_t3精选"
         },
-        {  
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/南风/api.json", 
-            "name": "南风" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/南风/api.json",
+            "name": "南风"
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/OK/api.json", 
-            "name": "OK" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/OK/api.json",
+            "name": "OK"
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/PG/api.json", 
-            "name": "PG" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/PG/api.json",
+            "name": "PG"
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/摸鱼儿/api.json", 
-            "name": "摸鱼儿" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/摸鱼儿/api.json",
+            "name": "摸鱼儿"
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/骚零/api.json", 
-            "name": "骚零" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/骚零/api.json",
+            "name": "骚零"
         },
-        { 
-            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/天天开心/api.json", 
-            "name": "天天开心" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/天天开心/api.json",
+            "name": "天天开心"
         },
-        {   
-        	"url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/王二小/api.json", 
-            "name": "王二小" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/王二小/api.json",
+            "name": "王二小"
         },
-        
-        {   
-        	"url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/少儿频道/api.json", 
-            "name": "少儿频道" 
+        {
+            "url": "https://bitbucket.org/ls125781003/tvboxtg/raw/main/少儿频道/api.json",
+            "name": "少儿频道"
         },
-	  {"name": "🐼电视直播源","url": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/直播源/iptv.json"},
-	  {"name": "CandyMuj", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/CandyMuj.txt"},
-          {"name": "Moew", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/Moew.txt"},
-          {"name": "dxawi", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/dxawi.txt"},
-          {"name": "小米", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/小米.txt"},
-          {"name": "巧技", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/巧技.txt"},
-          {"name": "挺好", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/挺好.txt"},
-          {"name": "摸鱼", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/摸鱼.txt"},
-          {"name": "星辰", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/星辰.txt"},
-          {"name": "欧歌", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/欧歌.txt"},
-          {"name": "王二小放牛娃", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/王二小放牛娃.txt"},
-          {"name": "盒子迷", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/盒子迷.txt"},
-          {"name": "肥猫", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/肥猫.txt"},
-          {"name": "饭太硬", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/饭太硬.txt"},
-          {"name": "骚零", "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/骚零.txt"}
+        {
+            "name": "🐼电视直播源",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/直播源/iptv.json"
+        },
+        {
+            "name": "CandyMuj",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/CandyMuj.txt"
+        },
+        {
+            "name": "Moew",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/Moew.txt"
+        },
+        {
+            "name": "dxawi",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/dxawi.txt"
+        },
+        {
+            "name": "小米",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/小米.txt"
+        },
+        {
+            "name": "巧技",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/巧技.txt"
+        },
+        {
+            "name": "挺好",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/挺好.txt"
+        },
+        {
+            "name": "摸鱼",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/摸鱼.txt"
+        },
+        {
+            "name": "星辰",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/星辰.txt"
+        },
+        {
+            "name": "欧歌",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/欧歌.txt"
+        },
+        {
+            "name": "王二小放牛娃",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/王二小放牛娃.txt"
+        },
+        {
+            "name": "盒子迷",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/盒子迷.txt"
+        },
+        {
+            "name": "肥猫",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/肥猫.txt"
+        },
+        {
+            "name": "饭太硬",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/饭太硬.txt"
+        },
+        {
+            "name": "骚零",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/骚零.txt"
+        },
+		{
+			"name": "ts",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/taojinliang123/TVBox/refs/heads/main/ts.json"
+		},
+		{
+			"name": "live_lite",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/live_lite.txt"
+			
+		},{
+			"name": "live_02",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt"
+			
+		},
+		{
+			"name": "tv_4yt1k",
+            "url": "https://ghfast.top/https://raw.githubusercontent.com/4yt1k/TVBox/refs/heads/main/json/tv.json"
+			
+		}
     ]
 }
