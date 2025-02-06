@@ -1,6 +1,5 @@
 { "storeHouse": [
 { "sourceName": "网络大佬", "sourceUrl": "https://ghfast.top/raw.githubusercontent.com/adminouyang/231006/main/tvbox/网络名家.txt" }, 
-{ "sourceName": "github-PizazzGY单仓", "sourceUrl": "https://ghfast.top/https://mirror.ghproxy.com/raw.githubusercontent.com/adminouyang/231006/main/tvbox/网络名家.txt"},
 { "sourceName": "github-231007单仓", "sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/PizazzGY/PizazzGY.json" },
 { "sourceName": "github-231006单仓", "sourceUrl": "https://ghfast.top/raw.githubusercontent.com/adminouyang/231006/main/tvbox/%E5%BD%B1%E8%A7%86%E7%BA%BF%E8%B7%AF.txt" },
 { "sourceName": "github-高天流云单仓", "sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/gao/gao.txt"},
@@ -14,5 +13,8 @@
 {"sourceName": "0914","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/0914-no-sex-tvbox.json"},
 {"sourceName": "111","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/111.json"},
 {"sourceName": "tvbox_04","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/yan55/tvbox_01/refs/heads/main/tvbox_04.json"},
-{"sourceName": "直播源","sourceUrl": "https://ghfast.top/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"} 
+{ "sourceName": "网络名家", "sourceUrl": "https://play.iptv365.org/tvbox.txt" }, 
+{ "sourceName": "拾光单仓", "sourceUrl": "http://xmbjm.fh4u.org/dc.txt"},
+{ "sourceName": "github-231006单仓", "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/%E5%BD%B1%E8%A7%86%E7%BA%BF%E8%B7%AF.txt" },
+{ "sourceName": "github-高天流云单仓", "sourceUrl": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/gao/gao.txt"}
 ]}
